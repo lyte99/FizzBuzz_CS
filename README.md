@@ -1,4 +1,4 @@
-# FIzzBuzz_CS
+# FizzBuzz_CS
 FizzBuzz in c#
 
 
