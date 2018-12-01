@@ -6,9 +6,9 @@ namespace FIzzBuzz_CS
     {
         static void Main(string[] args)
         {
-             //FIZZBUZZ
+             //FIZZBUZZ Problem
              
-             //loop 0 through 100
+             //loop 0 through 100 and 
             for  (int i=0;i<101;i++)
             {
                 //print Fizz Buzz if mutliple of 3 and 5
