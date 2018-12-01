@@ -6,7 +6,7 @@ namespace FIzzBuzz_CS
     {
         static void Main(string[] args)
         {
-             //FIZZBUZZ Problem
+             //FIZZBUZZ Problem   
              
              //loop 0 through 100 and 
             for  (int i=0;i<101;i++)
