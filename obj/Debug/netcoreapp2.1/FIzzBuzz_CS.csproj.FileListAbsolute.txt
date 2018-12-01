@@ -1,0 +1,11 @@
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\obj\Debug\netcoreapp2.1\FIzzBuzz_CS.csprojAssemblyReference.cache
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\obj\Debug\netcoreapp2.1\FIzzBuzz_CS.csproj.CoreCompileInputs.cache
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\obj\Debug\netcoreapp2.1\FIzzBuzz_CS.AssemblyInfoInputs.cache
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\obj\Debug\netcoreapp2.1\FIzzBuzz_CS.AssemblyInfo.cs
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\bin\Debug\netcoreapp2.1\FIzzBuzz_CS.deps.json
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\bin\Debug\netcoreapp2.1\FIzzBuzz_CS.runtimeconfig.json
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\bin\Debug\netcoreapp2.1\FIzzBuzz_CS.runtimeconfig.dev.json
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\bin\Debug\netcoreapp2.1\FIzzBuzz_CS.dll
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\bin\Debug\netcoreapp2.1\FIzzBuzz_CS.pdb
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\obj\Debug\netcoreapp2.1\FIzzBuzz_CS.dll
+C:\Users\aegelhof\source\VSC\FIzzBuzz_CS\obj\Debug\netcoreapp2.1\FIzzBuzz_CS.pdb
