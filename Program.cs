@@ -8,6 +8,7 @@ namespace FIzzBuzz_CS
         {
              //FIZZBUZZ
              
+             //loop 0 through 100
             for  (int i=0;i<101;i++)
             {
                 //print Fizz Buzz if mutliple of 3 and 5
@@ -25,6 +26,7 @@ namespace FIzzBuzz_CS
                 {
                    Console.WriteLine("Buzz") ;  
                 }
+                //if not a mutliple of 3 or 5, just print the #
                 else
                 {
                     Console.WriteLine(i);
